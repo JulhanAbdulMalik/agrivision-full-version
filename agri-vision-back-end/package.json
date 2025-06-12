@@ -1,0 +1,27 @@
+{
+  "name": "agri-vision-back-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/servers/server.js",
+    "dev": "nodemon ./src/servers/server.js",
+    "lint": "eslint ./src"
+  },
+  "author": "AgriVision-back-end",
+  "keywords": [],
+  "license": "ISC",
+  "description": "Aplikasi Petani Cerdas untuk Deteksi Penyakit Tanaman dan Edukasi Pertanian",
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "eslint": "^9.27.0",
+    "globals": "^16.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.4.0",
+    "@hapi/inert": "^7.1.0",
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "nanoid": "^3.3.11",
+    "util": "^0.12.5"
+  }
+}

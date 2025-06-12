@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API Documentation - AgriVision</title>
+
+  <script src="./servers/server.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header class="header">
+    <h1>AgriVision API Documentation</h1>
+    <p>Aplikasi Petani Cerdas untuk DeteksiPenyakit Tanaman dan Edukasi Pertanian</p>
+  </header>
+  <main class="container">
+    <section class="endpoint">
+      <h2>Create Education</h2>
+      <p><strong>Endpoint:</strong> <code>POST /educations</code></p>
+      <p><strong>Description:</strong> Menambahkan edukasi penyakit tanaman baru.</p>
+      <h3>Request Payload (JSON):</h3>
+      <pre><code class="json">
+{
+  "diseaseName": "string",
+  "characteristics": "string",
+  "symptoms": "string",
+  "cause": "string",
+  "prevention": ["string", "string", ...],
+  "treatment": {
+    "biological": "string",
+    "chemical": "string"
+  },
+  "videoEmbed": "string"
+}
+      </code></pre>
+      <h3>Responses:</h3>
+      <ul>
+        <li><strong>201 Created</strong>: Berhasil menambahkan edukasi.<br>
+          <code>{ "status": "success", "message": "Edukasi penyakit tanaman berhasil ditambahkan", "data": { "educationId": "string" } }</code>
+        </li>
+        <li><strong>400 Bad Request</strong>: Jika ada field kosong atau format salah.<br>
+          <code>{ "status": "fail", "message": "Gagal menambahkan edukasi ..." }</code>
+        </li>
+      </ul>
+    </section>
+    <section class="endpoint">
+      <h2>Get All Educations</h2>
+      <p><strong>Endpoint:</strong> <code>GET /educations</code></p>
+      <p><strong>Description:</strong> Mengambil semua data edukasi penyakit tanaman.</p>
+      <h3>Responses:</h3>
+      <ul>
+        <li><strong>200 OK</strong>: <br>
+          <code>{ "status": "success", "data": { "educations": [ { ... }, { ... } ] } }</code>
+        </li>
+      </ul>
+    </section>
+    <section class="endpoint">
+      <h2>Get Education by ID</h2>
+      <p><strong>Endpoint:</strong> <code>GET /educations/{educationId}</code></p>
+      <p><strong>Description:</strong> Mengambil detail edukasi berdasarkan ID.</p>
+      <h3>Path Parameters:</h3>
+      <ul>
+        <li><code>educationId</code> (string) - ID unik dari edukasi.</li>
+      </ul>
+      <h3>Responses:</h3>
+      <ul>
+        <li><strong>200 OK</strong>: <br>
+          <code>{ "status": "success", "data": { "education": { ... } } }</code>
+        </li>
+        <li><strong>404 Not Found</strong>: Jika ID tidak ditemukan.<br>
+          <code>{ "status": "fail", "message": "Edukasi penyakit tanaman tidak ditemukan, Id tidak ditemukan" }</code>
+        </li>
+      </ul>
+    </section>
+    <section class="endpoint">
+      <h2>Update Education by ID</h2>
+      <p><strong>Endpoint:</strong> <code>PUT /educations/{educationId}</code></p>
+      <p><strong>Description:</strong> Memperbarui data edukasi berdasarkan ID.</p>
+      <h3>Path Parameters:</h3>
+      <ul>
+        <li><code>educationId</code> (string) - ID unik dari edukasi.</li>
+      </ul>
+      <h3>Request Payload (JSON):</h3>
+      <pre><code class="json">
+{
+  "diseaseName": "string",
+  "characteristics": "string",
+  "symptoms": "string",
+  "cause": "string",
+  "prevention": ["string", "string", ...],
+  "treatment": {
+    "biological": "string",
+    "chemical": "string"
+  },
+  "videoEmbed": "string"
+}
+      </code></pre>
+      <h3>Responses:</h3>
+      <ul>
+        <li><strong>200 OK</strong>: <br>
+          <code>{ "status": "success", "message": "Edukasi penyakit tanaman berhasil diperbarui" }</code>
+        </li>
+        <li><strong>400 Bad Request</strong>: Jika ada field kosong.<br>
+          <code>{ "status": "fail", "message": "Gagal memperbarui edukasi penyakit tanaman. Mohon isi semua field." }</code>
+        </li>
+        <li><strong>404 Not Found</strong>: Jika ID tidak ditemukan.<br>
+          <code>{ "status": "fail", "message": "Gagal memperbarui edukasi penyakit tanaman. Id tidak ditemukan" }</code>
+        </li>
+      </ul>
+    </section>
+    <section class="endpoint">
+      <h2>Delete Education by ID</h2>
+      <p><strong>Endpoint:</strong> <code>DELETE /educations/{educationId}</code></p>
+      <p><strong>Description:</strong> Menghapus data edukasi berdasarkan ID.</p>
+      <h3>Path Parameters:</h3>
+      <ul>
+        <li><code>educationId</code> (string) - ID unik dari edukasi.</li>
+      </ul>
+      <h3>Responses:</h3>
+      <ul>
+        <li><strong>200 OK</strong>: <br>
+          <code>{ "status": "success", "message": "Edukasi penyakit tanaman berhasil dihapus" }</code>
+        </li>
+        <li><strong>404 Not Found</strong>: Jika ID tidak ditemukan.<br>
+          <code>{ "status": "fail", "message": "Gagal menghapus edukasi penyakit tanaman. Id tidak ditemukan" }</code>
+        </li>
+      </ul>
+    </section>
+    <hr>
+    <section class="endpoint">
+      <h2>Detection Page</h2>
+      <p><strong>Endpoint:</strong> <code>GET /detection</code></p>
+      <p><strong>Description:</strong> Menampilkan halaman deteksi penyakit tanaman.</p>
+      <h3>Responses:</h3>
+      <ul>
+        <li><strong>200 OK</strong>: <br>
+          <code>Halaman deteksi penyakit tanaman</code>
+        </li>
+      </ul>
+    </section>
+    <section class="endpoint">
+      <h2>404 Not Found</h2>
+      <p><strong>Endpoint:</strong> <code>* /{any*}</code></p>
+      <p><strong>Description:</strong> Menampilkan pesan halaman tidak ditemukan.</p>
+      <h3>Responses:</h3>
+      <ul>
+        <li><strong>404 Not Found</strong>: <br>
+          <code>Halaman tidak ditemukan</code>
+        </li>
+      </ul>
+    </section>
+  </main>
+  <footer class="footer">
+    <p>&copy; 2025 AgriVision API</p>
+  </footer>
+</body>
+
+</html>

@@ -1,0 +1,227 @@
+[
+  {
+  "diseaseName": "Tungro",
+  "characteristics": "Daun menguning dari ujung ke bawah, tanaman kerdil, anakan sedikit, pertumbuhan tidak merata. ",
+  "symptoms": "Tanaman yang terserang penyakit tungro biasanya tumbuh kerdil dan jumlah anakan berkurang. Daunnya berubah warna menjadi kuning atau oranye-kuning, terutama dari ujung hingga ke bawah daun. Terkadang, daun juga memiliki bercak-bercak cokelat kecil yang tidak merata. Jika tanaman masih muda, bisa terlihat warna kekuningan di antara tulang daun (klorosis). Pada infeksi ringan, tanaman tampak sedikit kerdil dan tidak menunjukkan daun menguning. Gejala ini kadang mirip dengan kekurangan kalium, tetapi bedanya: tungro hanya muncul di beberapa petak sawah, sedangkan kekurangan kalium biasanya terjadi merata di seluruh lahan.",
+  "cause": "Penyakit tungro disebabkan oleh dua virus, yaitu RTBV (Rice Tungro Bacilliform Virus) dan RTSV (Rice Tungro Spherical Virus). Virus ini menyebar melalui serangga kecil bernama wereng hijau. Wereng hijau menjadi pembawa virus setelah mengisap cairan dari tanaman padi yang terinfeksi. Ketika serangga ini berpindah ke tanaman lain dan mengisapnya, virus pun ikut menyebar. Penyakit ini lebih mudah menyebar jika banyak wereng di sawah, terutama saat musim tanam padi secara serempak tidak dilakukan.",
+  "prevention": [
+  "Gunakan benih sehat dan tahan penyakit",
+  "Tanam serempak di suatu wilayah",
+  "Bersihkan sisa tanaman padi atau rumput liar yang bisa menjadi tempat tinggal wereng sebelum tanam",
+  "Periksa lahan secara berkala untuk mendeteksi keberadaan wereng lebih awal",
+  "Pasang perangkap untuk menarik dan mengurangi populasi wereng hijau",
+  "Lestarikan laba-laba dan capung yang bisa membantu mengontrol populasi wereng",
+  "Semprot insektisida hanya saat diperlukan dan sesuai anjuran, agar wereng tidak menjadi kebal"
+  ],
+  "treatment": {
+  "biological": "Perangkap cahaya bisa digunakan untuk menarik dan mengurangi jumlah wereng hijau yang menyebarkan penyakit. Di pagi hari, wereng yang tertarik dan hinggap di dekat perangkap perlu segera ditangkap dan dibuang, atau dibunuh dengan cara disemprot atau ditabur insektisida. Langkah ini sebaiknya dilakukan setiap hari untuk hasil yang maksimal.",
+  "chemical": "Sebaiknya pengendalian hama dilakukan secara terpadu, yaitu dengan cara alami (hayati) dan kimiawi jika memungkinkan. Penyemprotan dengan insektisida berbahan aktif buprofezin atau pimetrozin antara hari ke-15 sampai ke-30 setelah tanam bisa efektif, asalkan dilakukan tepat waktu. Namun, karena serangga bisa menyebar ke area lain dengan cepat, penting juga untuk menyemprot tumbuhan di sekitar lahan. Hindari penggunaan insektisida berbahan klorpirifos, lamda sihalotrin, atau pyrethroid sintetis lainnya karena wereng sudah mulai kebal terhadap bahan-bahan tersebut."
+  },
+  "videoEmbed": "https://www.youtube.com/embed/S_S4oHe1d6g?si=cZ2sGP_P0PApiI-3"
+  },
+  {
+  "diseaseName": "Hawar Daun",
+  "characteristics": "Bercak air di tepi daun yang meluas seperti luka bakar, daun menguning dan mengering.",
+  "symptoms": "Gejala awal berupa bercak air di tepi daun yang kemudian memanjang seperti luka bakar. Daun berubah warna menjadi kuning kecokelatan dari ujung ke arah bawah dan akhirnya mengering. Pada serangan berat, seluruh daun bisa mati dan tanaman tampak layu seperti kekurangan air.",
+  "cause": "Hawar daun disebabkan oleh bakteri Xanthomonas oryzae. Bakteri ini menyebar melalui air hujan, angin, percikan air irigasi, serta alat pertanian yang tercemar. Kondisi lembap dan hujan yang sering memicu penyebarannya.",
+  "prevention": [
+  "Gunakan varietas padi yang tahan hawar daun",
+  "Tanam padi dengan jarak tanam yang cukup untuk sirkulasi udara",
+  "Jaga kebersihan lahan dari gulma dan sisa tanaman",
+  "Lakukan rotasi tanaman untuk menghindari infeksi berulang",
+  "Gunakan pupuk secara seimbang, hindari kelebihan nitrogen",
+  "Perbaiki sistem pengairan agar tidak menyebabkan genangan air"
+  ],
+  "treatment": {
+  "biological": "Gunakan varietas padi tahan hawar daun. Bersihkan gulma di sekitar sawah dan buang tanaman yang terinfeksi parah. Lakukan rotasi tanaman dan hindari menanam varietas yang rentan secara terus-menerus.",
+  "chemical": "Jika diperlukan, semprotkan bakterisida berbahan aktif tembaga (misalnya copper oxychloride) sesuai dosis anjuran. Penyemprotan sebaiknya dilakukan pada pagi atau sore hari, dan hanya saat gejala mulai muncul untuk mencegah penyebaran lebih lanjut."
+  },
+  "videoEmbed": "https://www.youtube.com/embed/akUkZNfSup8?si=UpF8W7oVZ1hOfMg1"
+  },
+  {
+  "diseaseName": "Hispa",
+  "characteristics": "Daun terlihat tergores memanjang, berubah keputihan atau keperakan, pertumbuhan terganggu.",
+  "symptoms": "Tanaman yang terserang hispa akan menunjukkan bekas gigitan atau goresan memanjang pada permukaan daun bagian atas. Daun terlihat seperti tergores dan berubah warna menjadi putih keperakan. Jika serangan parah, daun bisa menjadi kering dan tanaman tidak tumbuh optimal.",
+  "cause": "Hispa disebabkan oleh serangan serangga bernama Dicladispa armigera. Serangga ini menyerang daun muda dengan cara menggores dan menghisap cairannya. Telur biasanya diletakkan di permukaan bawah daun, dan larvanya masuk ke dalam jaringan daun sehingga menyebabkan kerusakan.",
+  "prevention": [
+  "Gunakan varietas padi yang tahan terhadap serangan hispa",
+  "Tanam padi tepat waktu dan hindari keterlambatan tanam",
+  "Lakukan pengamatan rutin terutama pada fase vegetatif awal",
+  "Kumpulkan dan musnahkan telur atau serangga dewasa secara manual",
+  "Pertahankan keberadaan musuh alami di lahan seperti laba-laba",
+  "Gunakan insektisida hanya saat serangan tinggi dan sesuai anjuran"
+  ],
+  "treatment": {
+  "biological": "Kumpulkan dan musnahkan telur hispa yang biasanya menempel di permukaan bawah daun. Tingkatkan populasi musuh alami seperti parasitoid telur dan laba-laba di lahan.",
+  "chemical": "Jika populasi hispa sudah tinggi, gunakan insektisida berbahan aktif abamektin atau fipronil sesuai dosis anjuran. Semprotkan pada pagi atau sore hari, dan hindari penyemprotan berulang yang tidak perlu agar tidak merusak musuh alami."
+  },
+  "videoEmbed": "https://youtu.be/KloGBmRV8aM?si=5KdQkxcBPRZeSmQB"
+  },
+  {
+  "diseaseName": "Gosong Bulir",
+  "characteristics": "Malai kosong dan berwarna putih, gabah tidak terisi, kadang terlihat jamur atau telur serangga.",
+  "symptoms": "Gejalanya muncul saat padi memasuki fase pengisian bulir. Malai terlihat kosong, berwarna putih, dan tidak berisi gabah. Saat dibuka, terlihat adanya serangga kecil atau telur di dalam bulir. Pada beberapa kasus, terdapat benang-benang hitam atau jamur pada bulir.",
+  "cause": "Gosong bulir disebabkan oleh serangan serangga seperti Stenochitus spp. atau jamur Ustilaginoidea virens. Penyakit ini bisa menyerang saat malai mulai keluar dan menyebabkan gabah tidak berkembang sempurna.",
+  "prevention": [
+  "Gunakan varietas tahan gosong bulir",
+  "Tanam padi secara serempak di satu wilayah",
+  "Bersihkan sisa jerami dan gulma setelah panen",
+  "Lakukan pengamatan saat padi memasuki fase malai",
+  "Semprot insektisida pada masa berbunga jika diperlukan"
+  ],
+  "treatment": {
+  "biological": "Gunakan varietas yang tahan terhadap gosong bulir dan tanam secara serempak untuk memutus siklus hama. Bersihkan sisa tanaman setelah panen.",
+  "chemical": "Jika populasi hama tinggi, semprotkan insektisida berbahan aktif karbofuran atau fipronil pada masa berbunga. Lakukan pengamatan terlebih dahulu agar penyemprotan tidak dilakukan sembarangan."
+  },
+  "videoEmbed": "https://www.youtube.com/embed/9Eo8cQxsutM?si=BhgHUcmzFx73z29D"
+  },
+  {
+  "diseaseName": "Tungau Malai",
+  "characteristics": "Malai tidak keluar sempurna, pendek, keriput, dan gabah kosong.",
+  "symptoms": "Malai padi terlihat pendek, mengkerut, dan tidak keluar sempurna dari pelepah. Gabah tampak kosong, kecil, dan ringan. Jika serangan berat, hampir seluruh malai gagal tumbuh normal.",
+  "cause": "Penyakit ini disebabkan oleh serangan tungau Steneotarsonemus spinki yang menyerang bagian malai saat masih muda. Tungau ini sangat kecil dan sulit dilihat dengan mata telanjang.",
+  "prevention": [
+  "Gunakan varietas tahan tungau malai",
+  "Tanam padi tepat waktu dan hindari keterlambatan",
+  "Bersihkan sisa tanaman dan gulma sebelum tanam",
+  "Periksa malai secara rutin saat fase bunting",
+  "Gunakan akarisida sesuai dosis jika serangan mulai muncul"
+  ],
+  "treatment": {
+  "biological": "Gunakan varietas padi tahan tungau dan tanam pada waktu yang tepat untuk menghindari puncak populasi tungau.",
+  "chemical": "Gunakan akarisida atau insektisida berbahan aktif abamektin atau propargite saat awal gejala terlihat, terutama pada fase bunting hingga malai keluar."
+  },
+  "videoEmbed": "Video"
+  },
+  {
+  "diseaseName": "Busuk Batang",
+  "characteristics": "Batang lunak, berwarna cokelat kehitaman, mudah roboh, dan terkadang berbau busuk.",
+  "symptoms": "Batang padi menjadi lunak dan berwarna cokelat kehitaman. Tanaman mudah roboh, terutama menjelang panen. Saat dibelah, batang terlihat busuk dan berair, terkadang berbau tidak sedap.",
+  "cause": "Busuk batang disebabkan oleh infeksi jamur seperti Fusarium, Rhizoctonia, atau bakteri tertentu. Serangan sering terjadi pada kondisi lembap dan pemupukan nitrogen yang berlebihan.",
+  "prevention": [
+  "Gunakan varietas tahan busuk batang",
+  "Tanam padi dengan jarak tanam yang cukup",
+  "Perbaiki sistem drainase agar tidak lembap berlebihan",
+  "Hindari penggunaan pupuk nitrogen secara berlebihan",
+  "Semprotkan fungisida saat kondisi mendukung perkembangan jamur"
+  ],
+  "treatment": {
+  "biological": "Gunakan varietas tahan busuk batang dan tanam dengan jarak yang cukup agar sirkulasi udara baik. Hindari pemupukan nitrogen berlebihan.",
+  "chemical": "Semprotkan fungisida sistemik berbahan aktif difenokonazol atau propikonazol jika gejala mulai terlihat, terutama saat menjelang fase berbunga."
+  },
+  "videoEmbed": "https://www.youtube.com/embed/1fwkF8c9_IE?si=K8xR6e5EgU_ZT2t2"
+  },
+  {
+  "diseaseName": "Layu Fusarium",
+  "characteristics": "Daun menguning dan layu dimulai dari bagian bawah, batang terlihat garis-garis cokelat jika dipotong.",
+  "symptoms": "Tanaman cabai tiba-tiba layu di siang hari, daun menguning dari bawah ke atas. Jika batang dipotong, terlihat pembuluh berwarna cokelat. Tanaman bisa mati perlahan.",
+  "cause": "Disebabkan oleh jamur Fusarium oxysporum yang hidup di tanah. Menyerang akar dan menyumbat pembuluh tanaman, sehingga air tidak bisa naik ke daun. Penyebaran cepat di tanah lembap dan asam.",
+  "prevention": [
+  "Pilih bibit cabai yang tahan layu Fusarium (misal varietas 'Tanjung' atau 'Kencana').",
+  "Pastikan tanah tidak terlalu lembap (perbaiki drainase).",
+  "Rotasi tanaman dengan keluarga non-solanaceae (jagung, kacang-kacangan).",
+  "Sterilkan tanah dengan solarisasi (jemur tanah dengan plastik transparan 2 minggu sebelum tanam).",
+  "Jangan menanam cabai di bekas lahan terserang Fusarium sebelumnya."
+  ],
+  "treatment": {
+  "biological": "Gunakan pupuk organik (kompos/kotoran ayam matang) untuk meningkatkan ketahanan tanaman. Campurkan Trichoderma atau Gliocladium ke tanah untuk melawan jamur.",
+  "chemical": "Semprotkan fungisida sistemik seperti Benomyl atau Metalaksil jika serangan parah. Gunakan sesuai dosis anjuran."
+  },
+  "videoEmbed": "https://www.youtube.com/embed/sYOnLuIA0lY?si=QV-tNlokO9w6-5Hk"
+  },
+  {
+  "diseaseName": "Layu Bakteri",
+  "characteristics": "Daun cabai tiba-tiba layu, terutama pada siang hari, tapi segar kembali saat sore atau pagi. Layu bisa menyebar ke seluruh tanaman dalam waktu singkat. Jika batang dipotong, keluar lendir putih seperti bening atau susu.",
+  "symptoms": "Tanaman cabai tampak sehat lalu tiba-tiba layu, dimulai dari daun bawah. Jika cuaca panas, tanaman bisa mati dalam 1–2 hari. Saat batang dipotong melintang, terlihat lendir kental. Lendir ini bisa ditarik seperti benang dan menjadi characteristics khas layu bakteri.",
+  "cause": "Penyakit ini disebabkan oleh bakteri Ralstonia solanacearum yang hidup di tanah dan masuk melalui akar. Bakteri ini menyumbat pembuluh air tanaman, membuat tanaman tak bisa menyerap air dan cepat layu. Penyakit cepat menyebar di tanah yang lembap dan suhu tinggi.",
+  "prevention": [
+  "Gunakan bibit tahan layu bakteri (contoh: varietas cabai Bhaskara, Lado F1, atau TM-999).",
+  "Tanam cabai di bedengan tinggi dengan drainase baik agar air tidak menggenang.",
+  "Jangan menyiram terlalu banyak, cukup saat tanah mulai kering.",
+  "Lakukan rotasi tanaman dengan padi, jagung, atau kacang-kacangan selama minimal 1 musim tanam.",
+  "Solarisasi tanah sebelum tanam: tutup tanah dengan plastik bening selama 2–4 minggu agar sinar matahari membunuh bakteri.",
+  "Bersihkan alat pertanian sebelum dan sesudah digunakan agar tidak menularkan bakteri."
+  ],
+  "treatment": {
+  "biological": "Gunakan pupuk kandang yang sudah matang dan dicampur dengan Trichoderma harzianum atau Bacillus subtilis (misalnya: merek Biotricho atau Agrobio), 10 gram per tanaman, dicampur di lubang tanam atau larutkan dalam 1 liter air lalu siram ke akar seminggu sekali.",
+  "chemical": "Gunakan bakterisida berbahan aktif Streptomycin atau Kasugamycin. Contoh produk: Strepto Plus 20WP, dosis 1 gram per liter air. Semprotkan ke seluruh tanaman setiap 5–7 hari sekali selama 2 minggu saat gejala awal muncul. Bisa digabung dengan penyemprotan Nordox 75WG (tembaga), dosis 2 gram/liter, untuk menekan penyebaran bakteri di tanah dan daun."
+  },
+  "videoEmbed": "https://www.youtube.com/embed/aJAjq3NMoLQ?si=7BIOij2vbvUU5e9v"
+  },
+  {
+  "diseaseName": "Antraknosa",
+  "characteristics": "Buah cabai muncul bercak kecil melingkar berwarna cokelat kehitaman yang lama-lama membusuk dan mengering. Di tengah bercak sering terlihat bintik-bintik oranye (spora jamur).",
+  "symptoms": "Buah cabai yang masih muda atau sudah matang tiba-tiba muncul bercak cokelat, basah, dan membusuk. Luka membulat dan semakin melebar, bisa menyebabkan buah rontok atau tak layak jual. Daun dan batang bisa juga terkena, tapi lebih sering di buah.",
+  "cause": "Penyakit ini disebabkan oleh jamur Colletotrichum capsici. Jamur berkembang cepat di kondisi lembap, terutama saat musim hujan atau lahan terlalu rapat. Spora jamur menyebar lewat percikan air hujan, alat, atau tangan petani.",
+  "prevention": [
+  "Gunakan varietas cabai yang tahan antraknosa, seperti Tanjung 1, Kencana, atau Lado F1.",
+  "Jangan menanam terlalu rapat, beri jarak tanam minimal 60x60 cm agar sirkulasi udara baik.",
+  "Pangkas daun bagian bawah agar tanaman tidak terlalu rimbun dan lembap.",
+  "Jangan menyiram langsung ke atas tanaman (hindari percikan air ke buah). Gunakan sistem tetes atau siram di pangkal.",
+  "Buang buah atau tanaman yang sudah terkena penyakit, lalu bakar agar tidak menular.",
+  "Lakukan rotasi tanaman dengan sayuran non-cabai minimal 1 musim tanam."
+  ],
+  "treatment": {
+  "biological": "Semprotkan larutan ekstrak bawang putih atau daun sirih yang bersifat anti-jamur (fermentasi selama 1 hari, campur 50 ml per liter air). Gunakan juga pupuk hayati mengandung jamur antagonis seperti Trichoderma harzianum (merek: Biotricho, TricoMax) sebanyak 10 gram per tanaman, diberikan di pangkal tanaman setiap 2 minggu.",
+  "chemical": "Gunakan fungisida berbahan aktif Mankozeb, Klorotalonil, atau Propineb. Contoh produk: Dithane M-45 (Mankozeb), dosis 2 gram/liter air. Semprotkan setiap 7 hari sekali saat musim hujan atau ada gejala awal. Untuk infeksi berat, bisa dikombinasi dengan fungisida sistemik seperti Azoksistrobin (merek: Amistar Top) dosis 1 ml/liter air."
+  },
+  "videoEmbed": "https://www.youtube.com/embed/vg8euCmO1EU?si=c1xArCyERbGLK-PV"
+  },
+  {
+
+  "diseaseName": "Hawar Daun Jagung",
+  "characteristics": "Daun jagung muncul bercak memanjang berwarna cokelat keabu-abuan, sering dimulai dari tepi daun. Bercak bisa menyatu dan menyebabkan daun mengering dari ujung ke bawah.",
+  "symptoms": "Awalnya terlihat bercak kecil memanjang (seperti luka bakar) pada daun bagian bawah. Seiring waktu, bercak melebar dan menyebabkan daun mengering seluruhnya. Jika menyerang parah, produksi tongkol bisa turun drastis karena tanaman tidak mampu berfotosintesis.",
+  "cause": "Penyakit ini disebabkan oleh jamur Helminthosporium turcicum atau Exserohilum turcicum yang menyerang daun jagung. Penyakit berkembang cepat pada suhu lembap dan curah hujan tinggi. Menyebar lewat angin, percikan air, dan sisa tanaman sakit.",
+  "prevention": [
+  "Gunakan varietas jagung tahan hawar daun seperti Bima 20 URI, JH 37, atau HJ 21.",
+  "Tanam dengan jarak cukup agar sirkulasi udara antar tanaman baik (misal: 75 x 25 cm).",
+  "Bersihkan gulma di sekitar tanaman untuk mengurangi kelembapan lingkungan.",
+  "Rotasi tanaman dengan kedelai, kacang tanah, atau padi sawah selama satu musim tanam.",
+  "Bakar atau buang sisa-sisa tanaman yang sakit setelah panen.",
+  "Lakukan pemupukan berimbang, terutama dengan kalium dan fosfor, agar tanaman tidak terlalu lemah terhadap serangan penyakit."
+  ],
+  "treatment": {
+  "biological": "Gunakan pupuk organik cair (POC) berbahan daun bambu atau urine ternak fermentasi untuk memperkuat ketahanan daun. Tambahkan agens hayati seperti Bacillus subtilis (contoh produk: Biotip, Agribio BS) dengan dosis 5–10 ml/liter air, semprotkan ke daun setiap 7 hari.",
+  "chemical": "Semprotkan fungisida berbahan aktif mankozeb, klorotalonil, atau azoksistrobin. Rekomendasi produk: Dithane M-45 (mankozeb) dosis 2 gram/liter, atau Amistar Top (azoksistrobin + difenokonazol) dosis 1 ml/liter. Lakukan penyemprotan sejak muncul gejala awal, ulangi setiap 7–10 hari saat cuaca lembap."
+  },
+  "videoEmbed": "https://www.youtube.com/embed/qSadBz0Txk0?si=X6UJ9tgtrPMzK3rn"
+  },
+  {
+  "diseaseName": "Bulai Jagung",
+  "characteristics": "Daun muda jagung berubah warna menjadi kekuningan atau keputihan, tampak seperti terlapisi debu putih. Tanaman tumbuh kerdil, tidak keluar tongkol atau tongkol kecil dan rusak.",
+  "symptoms": "Gejala awal terlihat pada daun muda yang berubah warna menjadi kuning pucat sampai putih. Permukaan daun tampak seperti berdebu atau berbulu halus warna putih. Tanaman tumbuh lambat, kerdil, dan pada akhirnya tidak menghasilkan tongkol. Pada malam atau pagi hari, bulu-bulu putih di daun tampak lebih jelas karena sporanya aktif saat lembap.",
+  "cause": "Bulai disebabkan oleh jamur Peronosclerospora maydis yang menyerang tanaman sejak masih muda. Penyakit ini menyebar lewat benih yang sudah terinfeksi atau spora di tanah dan udara. Cuaca lembap, curah hujan tinggi, dan suhu dingin sangat mendukung perkembangan penyakit ini.",
+  "prevention": [
+  "Gunakan benih jagung unggul yang tahan bulai seperti Pertiwi 3, NK 212, Bisi 18, atau Bima 20 Uri.",
+  "Rendam benih dengan fungisida sistemik (metalaksil) sebelum tanam.",
+  "Tanam jagung di lahan yang terbuka dan mendapat sinar matahari cukup.",
+  "Jangan menanam terlalu rapat, beri jarak tanam minimal 75 x 25 cm.",
+  "Rotasi tanaman dengan kedelai, kacang tanah, atau padi selama 1 musim tanam.",
+  "Cabut dan bakar tanaman yang menunjukkan gejala bulai agar tidak menyebar.",
+  "Bersihkan gulma dan sisa tanaman lama dari lahan sebelum menanam kembali."
+  ],
+  "treatment": {
+  "biological": "Gunakan benih yang telah direndam dalam larutan Trichoderma atau Bacillus subtilis (contoh: Biotricho, Agrobio BS) selama 30 menit sebelum tanam. Siramkan larutan agens hayati tersebut juga ke lubang tanam (5–10 ml per tanaman) seminggu sekali untuk mencegah jamur penyebab bulai.",
+  "chemical": "Gunakan fungisida sistemik berbahan aktif metalaksil (contoh: Apron 35 SD atau Metalaxyl 25 WP). Rendam benih dalam larutan 2–3 gram per liter air selama 12 jam sebelum tanam. Untuk tanaman yang sudah tumbuh, semprotkan fungisida seperti Ridomil Gold MZ 4–5 gram/liter air saat muncul gejala awal, ulangi tiap 7 hari."
+  },
+  "videoEmbed": "https://www.youtube.com/embed/KbZbFEwr2vA?si=vnJMhVicYLIRmACI"
+  },
+  {
+  "diseaseName": "Busuk Buah Tomat",
+  "characteristics": "Ujung buah tomat (bagian bawah) menghitam, mengering, dan membusuk.",
+  "symptoms": "Buah yang mulai membesar menunjukkan bercak hitam di ujungnya. Bercak meluas dan jaringan menjadi kering dan keras. Buah jadi tidak layak jual.",
+  "cause": "Kekurangan kalsium akibat penyiraman tidak teratur, cuaca ekstrem, atau pH tanah terlalu rendah.",
+  "prevention": [
+  "Jaga kelembapan tanah tetap stabil, jangan terlalu basah atau kering.",
+  "Gunakan kapur dolomit saat persiapan lahan untuk menstabilkan pH.",
+  "Jangan terlalu banyak pupuk nitrogen saat awal pertumbuhan.",
+  "Gunakan varietas tahan seperti Opal, Rewako, atau Marta."
+  ],
+  "treatment": {
+  "biological": "Semprotkan kalsium cair dari kulit telur fermentasi (campurkan 10 kulit telur, 1 liter air, 5 hari fermentasi) 100 ml per liter air ke daun dan buah.",
+  "chemical": "Gunakan pupuk daun mengandung kalsium (contoh: Calnex, BorCal) dosis 2 ml per liter. Aplikasikan seminggu sekali saat pembentukan buah."
+  },
+  "videoEmbed": "https://www.youtube.com/embed/Osgk5E5moDg?si=DHnmRk464SX606G2"
+  }
+]

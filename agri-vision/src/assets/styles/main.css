@@ -1,0 +1,358 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap");
+@import url(home-style.css);
+@import url(education-style.css);
+@import url(detection-style.css);
+@import url(about-style.css);
+@import url(detection-result-style.css);
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --primary: #658d35;
+  --primary-light: #8baf5e;
+  --primary-dark: #4a6b25;
+  --secondary: #ef9f00;
+  --accent: #ffbd39;
+  --light: #f4f6f9;
+  --dark: #2c3e1a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  background-color: var(--light);
+  color: var(--dark);
+  line-height: 1.6;
+}
+
+header {
+  background-color: white;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.main-header {
+  min-height: 90px;
+  padding-block: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+
+.container {
+  padding-inline: 32px;
+  margin-inline: auto;
+  max-width: 1300px;
+}
+
+/* Navigation Bar */
+.navigation-drawer {
+  min-height: 100vh;
+  width: 280px;
+  padding: 30px 20px;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  transform: translateX(-100%);
+  transition: transform 350ms cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 9999;
+}
+
+.navigation-drawer.open {
+  transform: translateX(0);
+}
+
+.drawer-button {
+  padding: 8px 12px;
+  border: 2px solid var(--primary);
+  border-radius: 8px;
+  background-color: white;
+  color: var(--primary);
+  font-weight: 700;
+  font-size: 24px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.drawer-button:hover {
+  background-color: var(--primary);
+  color: white;
+}
+
+.logo-nav {
+  max-width: 120px;
+  height: auto;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 40px;
+}
+
+.nav-list li a {
+  padding: 12px 16px;
+  display: block;
+  color: var(--dark);
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.nav-list li a:hover {
+  background-color: var(--primary);
+  color: white;
+  transform: translateX(5px);
+}
+
+@media screen and (width > 1000px) {
+  .navigation-drawer {
+    min-height: auto;
+    width: auto;
+    padding: 0;
+    background-color: transparent;
+    position: static;
+    box-shadow: none;
+    transform: translateX(0);
+  }
+
+  .nav-list {
+    flex-direction: row;
+    align-items: center;
+    margin-top: 0;
+    gap: 10px;
+  }
+
+  .nav-list li a {
+    padding: 8px 16px;
+  }
+
+  .nav-list li a:hover {
+    transform: translateY(-2px);
+  }
+
+  .drawer-button {
+    display: none;
+  }
+}
+
+/* Footer */
+.footer {
+  position: relative;
+  background-image: url("../images/footer-image.jpg");
+  background-size: cover;
+  background-position: center;
+  color: var(--light);
+  z-index: 1;
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 20, 0, 0.493);
+  z-index: -1;
+}
+
+.footer-content {
+  padding: 4rem 10rem;
+  display: grid;
+  grid-template-columns: 3fr 1.5fr;
+}
+
+.footer-email {
+  margin: auto 0;
+}
+
+.footer-email input.email {
+  padding: 1rem 1rem;
+  border-radius: 10px;
+  border: none;
+  width: 40%;
+  margin-right: 8px;
+}
+
+.footer-email .btn-submit-email {
+  padding: 1rem 1rem;
+  border-radius: 10px;
+  background-color: var(--secondary);
+  border: none;
+
+  width: 10%;
+  font-weight: 600;
+  color: var(--dark);
+  cursor: pointer;
+}
+
+.footer-email .btn-submit-email:hover {
+  background-color: var(--accent);
+}
+
+.footer-menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-title {
+  font-weight: bold;
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-links li a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer-links ul li {
+  margin-bottom: 8px;
+}
+
+.footer-links li a:hover {
+  color: var(--secondary);
+  font-weight: bold;
+}
+
+.footer-links ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer-contact li {
+  list-style: none;
+  margin-bottom: 8px;
+}
+
+.footer-contact p {
+  margin: 0.5rem 0;
+}
+
+.footer-bottom {
+  margin: 0;
+  text-align: center;
+  background-color: rgba(0, 20, 0, 0.5);
+  color: var(--light);
+  padding: 15px;
+  position: relative;
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(5px);
+  font-size: 0.9rem;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInFromBottom {
+  0% {
+    transform: translateY(50%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Responsive for Tablet (768px - 1024px) */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .container {
+    padding-inline: 24px;
+  }
+
+  .footer-content {
+    padding: 3rem 4rem;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .footer-menu {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .footer-email input.email {
+    width: 60%;
+    margin-bottom: 1rem;
+  }
+
+  .footer-email .btn-submit-email {
+    width: 30%;
+  }
+}
+
+/* Responsive for Handphone (max-width: 767px) */
+@media (max-width: 767px) {
+  .container {
+    padding-inline: 16px;
+  }
+
+  .navigation-drawer {
+    width: 240px;
+    padding: 20px 16px;
+  }
+
+  .nav-list {
+    gap: 12px;
+  }
+
+  .drawer-button {
+    font-size: 20px;
+    padding: 6px 10px;
+  }
+
+  .footer-content {
+    padding: 2rem;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .footer-menu {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .footer-email input.email {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+
+  .footer-email .btn-submit-email {
+    width: 100%;
+  }
+}

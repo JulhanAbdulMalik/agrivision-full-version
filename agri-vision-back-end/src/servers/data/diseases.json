@@ -1,0 +1,212 @@
+[
+  {
+    "id": "class_3",
+    "diseaseName": "Blas Leher atau Blas Malai (Neck Blast)",
+    "description":
+      "Blas Leher atau Blas Malai (Neck Blast), juga dikenal sebagai panicle blast, adalah penyakit yang disebabkan oleh jamur Magnaporthe oryzae yang menyerang leher malai padi sehingga menyebabkan butir padi kosong.",
+    "symptoms": [
+      "Lesi pada leher malai berwarna abu-abu dengan batas cokelat gelap",
+      "Butir padi memutih atau kosong (panicle tip blast)",
+      "Leher malai menjadi rapuh dan mudah patah"
+    ],
+    "treatments": [
+      "Aplikasi fungisida tricyclazole atau karbendazim",
+      "Perlakuan benih dengan validamycin",
+      "Penyemprotan daun pada fase pembentukan malai"
+    ],
+    "prevention": [
+      "Menggunakan varietas padi tahan blast",
+      "Menjaga keseimbangan pemupukan nitrogen",
+      "Menghindari kerapatan tanam tinggi dan stres air"
+    ]
+  },
+  {
+    "id": "class_9",
+    "diseaseName": "Padi Kuning (Tungro)",
+    "description":
+      "Padi Kuning (Tungro) adalah penyakit virus yang ditularkan oleh wereng hijau (Nephotettix spp.), menyebabkan tanaman kerdil, menguning, dan menurunnya hasil panen.",
+    "symptoms": [
+      "Daun menguning oranye hingga kekuningan",
+      "Pertumbuhan kerdil dan berkurangnya pembentukan anakan",
+      "Malai muncul terlambat atau tidak sempurna"
+    ],
+    "treatments": [
+      "Tidak ada pengobatan kuratif; segera cabut tanaman terinfeksi",
+      "Pengendalian vektor wereng dengan insektisida (misalnya imidakloprid)",
+      "Penggunaan biopestisida berbasis neem"
+    ],
+    "prevention": [
+      "Menanam varietas toleran atau tahan",
+      "Sanitasi lahan dengan membersihkan tanaman sukarela",
+      "Penyesuaian waktu tanam untuk menghindari populasi vektor tinggi"
+    ]
+  },
+  {
+    "id": "class_7",
+    "diseaseName": "Bercak Daun Bakteri",
+    "description":
+      "Bercak daun bakteri disebabkan oleh Xanthomonas oryzae pv. oryzae, menimbulkan bercak kuning dan layu pada daun padi yang dapat menurunkan hasil panen secara signifikan.",
+    "symptoms": [
+      "Lesi kuning kehijauan yang berubah menjadi putih abu-abu dengan tepi kuning",
+      "Layu pada ujung dan tepi daun",
+      "Infeksi berat menyebabkan daun seluruhnya mengering"
+    ],
+    "treatments": [
+      "Aplikasi bakterisida berbasis tembaga (misalnya tembaga oksiklorida)",
+      "Penyemprotan streptomisin dengan tekanan tinggi",
+      "Pengaturan drainase lahan untuk mengurangi kelembapan"
+    ],
+    "prevention": [
+      "Menanam varietas tahan (mengandung gen Xa)",
+      "Menghindari pemupukan nitrogen berlebih",
+      "Rotasi tanaman dan pembuangan sisa tanaman terinfeksi"
+    ]
+  },
+  {
+    "id": "class_5",
+    "diseaseName": "Bercak Pembungkus (Sheath Blight)",
+    "description":
+      "Sheath blight adalah penyakit yang disebabkan oleh jamur Rhizoctonia solani, menyerang bagian ruas dan pembungkus daun padi, dapat menyebar cepat dan menyebabkan rebah.",
+    "symptoms": [
+      "Lesi oval hingga tidak beraturan pada pembungkus daun dan daun",
+      "Bagian tengah lesi menjadi abu-abu dengan tepi cokelat",
+      "Tumbuh miselium putih pada kondisi lembap"
+    ],
+    "treatments": [
+      "Aplikasi fungisida azoxystrobin atau propikonazol",
+      "Penyemprotan larutan bikarbonat sebagai daun pelindung",
+      "Perlakuan benih dengan karbendazim"
+    ],
+    "prevention": [
+      "Menggunakan varietas yang memiliki ketahanan sedang",
+      "Mengatur jarak tanam agar sirkulasi udara baik",
+      "Menghindari pemupukan nitrogen berlebih dan kedalaman air terlalu tinggi"
+    ]
+  },
+  {
+    "id": "class_8",
+    "diseaseName": "Bercak Cokelat",
+    "description":
+      "Bercak cokelat disebabkan oleh jamur Bipolaris oryzae, menghasilkan bercak gelap pada daun dan dapat mempengaruhi penampilan biji.",
+    "symptoms": [
+      "Bercak kecil bulat hingga oval berwarna cokelat pada daun",
+      "Lesi biasanya dikelilingi halo kekuningan",
+      "Dalam kasus parah, bercak menyatu membentuk area layu"
+    ],
+    "treatments": [
+      "Penyemprotan mankozeb atau fungisida triazol",
+      "Perlakuan benih dengan thiram",
+      "Pemupukan kalium untuk mengatasi kekurangan"
+    ],
+    "prevention": [
+      "Pemupukan seimbang terutama kalium",
+      "Menghindari budidaya padi berturut-turut pada lahan sama",
+      "Pembersihan sisa tanaman setelah panen"
+    ]
+  },
+  {
+    "id": "class_6",
+    "diseaseName": "Kondisi Sehat",
+    "description":
+      "Tanaman padi dalam kondisi optimal tanpa gejala penyakit, dengan pertumbuhan vegetatif dan generatif yang baik.",
+    "symptoms": [
+      "Daun hijau cerah tanpa bercak atau lesi",
+      "Batang kuat dan tegak",
+      "Malai padat dan biji penuh sempurna"
+    ],
+    "treatments": [
+      "Monitoring rutin dan pemupukan seimbang",
+      "Pengendalian hama dan gulma secara preventif",
+      "Pemeliharaan drainase dan aerasi lahan"
+    ],
+    "prevention": [
+      "Menggunakan benih unggul bebas penyakit",
+      "Rotasi tanaman dan sanitasi lahan",
+      "Pemupukan berdasarkan hasil uji tanah"
+    ]
+  },
+  {
+    "id": "class_4",
+    "diseaseName": "Bercak Cokelat Sempit",
+    "description":
+      "Bercak cokelat sempit, disebabkan oleh Pseudocercospora oryzae, menimbulkan lesi panjang sempit pada daun yang mengganggu fotosintesis.",
+    "symptoms": [
+      "Lesi memanjang sempit berwarna cokelat tua pada daun",
+      "Lesi dapat menyatu membentuk area nekrotik",
+      "Tepi lesi berwarna kekuningan pucat"
+    ],
+    "treatments": [
+      "Fungisida berbasis triazol",
+      "Perlakuan benih dengan tebuconazole",
+      "Penyemprotan mankozeb pada daun"
+    ],
+    "prevention": [
+      "Pengolahan tanah dalam sebelum tanam",
+      "Penerapan sistem jajar legowo",
+      "Pemupukan N, P, K secara seimbang"
+    ]
+  },
+  {
+    "id": "class_2",
+    "diseaseName": "Keriting Daun (Leaf Scald)",
+    "description":
+      "Leaf scald, disebabkan oleh jamur Microdochium oryzae (Rhynchosporium oryzae), menyebabkan bercak besar pada daun yang dapat merambat ke batang.",
+    "symptoms": [
+      "Bercak besar memanjang berwarna cokelat muda hingga putih kekuningan",
+      "Lesi memiliki batas gelap di tepi",
+      "Daun mengering saat lesi melebar"
+    ],
+    "treatments": [
+      "Aplikasi fungisida triazol pada awal serangan",
+      "Penyemprotan tembaga oksiklorida",
+      "Pengelolaan sisa tanaman terinfeksi"
+    ],
+    "prevention": [
+      "Sanitasi lahan dan pembakaran jerami terinfeksi",
+      "Rotasi tanaman bukan padi",
+      "Pemilihan varietas yang toleran"
+    ]
+  },
+  {
+    "id": "class_0",
+    "diseaseName": "Blas Daun (Leaf Blast)",
+    "description":
+      "Blas Daun (Leaf Blast) adalah penyakit yang disebabkan oleh jamur Magnaporthe oryzae, menyerang daun dan dapat menyebar ke bagian lain tanaman.",
+    "symptoms": [
+      "Lesi berbentuk bintang dengan pusat abu-abu keputihan",
+      "Lesi menyatu membentuk garis panjang",
+      "Daun muda mudah layu"
+    ],
+    "treatments": [
+      "Fungisida tricyclazole atau isoprothiolane",
+      "Perlakuan benih dengan karbendazim",
+      "Penyemprotan fungisida sistemik"
+    ],
+    "prevention": [
+      "Menanam varietas tahan blast",
+      "Pengaturan pemupukan nitrogen",
+      "Pengendalian gulma untuk sirkulasi udara baik"
+    ]
+  },
+  {
+    "id": "class_1",
+    "diseaseName": "Serangan Hama Kepik Hispa (Rice Hispa)",
+    "description":
+      "Serangan Hama Kepik Hispa (Rice Hispa) adalah hama serangga (Dicladispa armigera) yang memakan jaringan daun padi, menyebabkan kerusakan berupa lubang sejajar.",
+    "symptoms": [
+      "Lubang memanjang sejajar urat daun pada daun",
+      "Permukaan daun tampak terkelupas keperakan",
+      "Kepik dewasa berwarna hitam metalik terlihat pada daun"
+    ],
+    "treatments": [
+      "Aplikasi insektisida spinosad atau pirimifos-methyl",
+      "Pemasangan perangkap kuning di lahan",
+      "Rotasi insektisida untuk mencegah resistensi"
+    ],
+    "prevention": [
+      "Sanitasi lahan dengan membuang daun tua terinfeksi",
+      "Pengendalian hayati dengan predator alami",
+      "Rotasi tanaman dan penanaman jauh dari lahan sebelumnya"
+    ]
+  }
+]

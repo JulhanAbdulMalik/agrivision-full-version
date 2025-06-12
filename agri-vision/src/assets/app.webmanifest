@@ -1,0 +1,110 @@
+{ 
+  "id": "/#/",  
+  "start_url": "/#/",
+  "scope": "/",
+  "name": "AgriVision",
+  "short_name": "Story",
+  "description": "Aplikasi Petani Cerdas untuk Deteksi Penyakit Tanaman dan Edukasi Pertanian",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#658d35",
+  "icons": [
+    {
+      "src": "/images/brand/logo-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/brand/playstore.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/brand/playstore.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  
+  "screenshots": [
+    {
+      "src": "images/screenshots/screenshot-1.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/screenshot-2.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/screenshot-3.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/screenshot-4.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    
+    {
+      "src": "images/screenshots/screenshot-5.png",
+      "sizes": "1080x2280",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshots/screenshot-6.png",
+      "sizes": "1080x2280",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshots/screenshot-7.png",
+      "sizes": "1080x2280",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshots/screenshot-8.png",
+      "sizes": "1080x2280",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+
+  "shortcuts": [
+    {
+      "name": "Beranda",
+      "short_name": "Beranda",
+      "description": "Halaman Beranda",
+      "url": "/#/",
+      "icons": [
+        {
+          "src": "/images/brand/playstore.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+    },
+    {
+      "name": "Deteksi Penyakit",
+      "short_name": "Deteksi",
+      "description": "Mendeteksi Penyakit",
+      "url": "/#/detection",
+      "icons": [
+        {
+          "src": "/images/brand/playstore.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+    }
+  ]
+}
